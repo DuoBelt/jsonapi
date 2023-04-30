@@ -1,10 +1,10 @@
 [
   {
-    "name": "Sony XPeria",
+    "name": "Samsung Galaxy A13",
     "id": "#001",
     "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
-    "xdescription": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
-    "ydescription": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "xdescription": "Galaxy A13 LTE to model, w którym minimalistyczny, kolorowy design łączy się z miłą w dotyku obudową. Dzięki wyrafinowanym krzywym liniom łatwiej jest trzymać urządzenie i nawigować po ekranie. Wybierz jeden z dwóch dostępnych kolorów – niebieski lub czarny.",
+    "ydescription": "Galaxy A13 LTE łączy moc przetwarzania ośmiordzeniowego procesora z 4 GB pamięci RAM. Zapewnia to szybką obsługę i efektywną pracę. Pamięć wewnętrzna to 64 GB, jednak możesz ją powiększyć nawet o 1 TB dzięki karcie MicroSD",
     "height": "2' 04\"",
     "category": "Seed",
     "weight": "15.2 lbs",
@@ -29,7 +29,7 @@
     "base_exp": "64"
   },
   {
-    "name": "Ivysaur",
+    "name": "Xiaomi Redmi 9A",
     "id": "#002",
     "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
     "xdescription": "There is a bud on this Pok\u00e9mon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
@@ -58,7 +58,7 @@
     "base_exp": "142"
   },
   {
-    "name": "Venusaur",
+    "name": "Samsung Galaxy A53",
     "id": "#003",
     "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
     "xdescription": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
