@@ -2,7 +2,7 @@
   {
     "name": "Samsung Galaxy A13",
     "id": "#001",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "imageurl": "https://lepiej.waw.pl/serwis/web_assets/SAMSUNG_Galaxy_A13.png",
     "xdescription": "Galaxy A13 LTE to model, w którym minimalistyczny, kolorowy design łączy się z miłą w dotyku obudową. Dzięki wyrafinowanym krzywym liniom łatwiej jest trzymać urządzenie i nawigować po ekranie. Wybierz jeden z dwóch dostępnych kolorów – niebieski lub czarny.",
     "ydescription": "Galaxy A13 LTE łączy moc przetwarzania ośmiordzeniowego procesora z 4 GB pamięci RAM. Zapewnia to szybką obsługę i efektywną pracę. Pamięć wewnętrzna to 64 GB, jednak możesz ją powiększyć nawet o 1 TB dzięki karcie MicroSD",
     "height": "2' 04\"",
@@ -31,7 +31,7 @@
   {
     "name": "Xiaomi Redmi 9A",
     "id": "#002",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+    "imageurl": "https://lepiej.waw.pl/serwis/web_assets/XIAOMI_Redmi_9A.png",
     "xdescription": "There is a bud on this Pok\u00e9mon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
     "ydescription": "There is a bud on this Pok\u00e9mon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
     "height": "3' 03\"",
@@ -58,9 +58,9 @@
     "base_exp": "142"
   },
   {
-    "name": "Samsung Galaxy A53",
+    "name": "Samsung Galaxy M23",
     "id": "#003",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "imageurl": "https://lepiej.waw.pl/serwis/web_assets/SAMSUNG_Galaxy_M23.png",
     "xdescription": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "ydescription": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "height": "6' 07\"",
